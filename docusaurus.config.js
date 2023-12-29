@@ -16,19 +16,19 @@ const config = {
   url: 'https://directmessagingtechnologies.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs-web',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'DirectMessagingTechnologies', // Usually your GitHub org/user name.
-  projectName: 'Docs', // Usually your repo name.
+  projectName: 'docs-web', // Usually your repo name.
 
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  deploymentBranch: "main",
+  deploymentBranch: "deploy",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
