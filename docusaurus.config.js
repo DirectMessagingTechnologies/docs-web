@@ -14,7 +14,7 @@ const config = {
 
   // Set the production url of your site here
   // url: 'https://directmessagingtechnologies.github.io',
-  url: 'docs.directmessage.tech',
+  url: 'https://docs.directmessage.tech',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/docs-web',
