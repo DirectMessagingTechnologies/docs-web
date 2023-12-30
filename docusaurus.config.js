@@ -13,10 +13,12 @@ const config = {
   favicon: 'img/logo-mock-3-transparent.png',
 
   // Set the production url of your site here
-  url: 'https://directmessagingtechnologies.github.io',
+  // url: 'https://directmessagingtechnologies.github.io',
+  url: 'docs.directmessage.tech',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs-web',
+  // baseUrl: '/docs-web',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
