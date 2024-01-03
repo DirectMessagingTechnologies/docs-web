@@ -14,9 +14,23 @@ keywords:
 ## How is the DMT Creator Data Google Sheets extension different than other offerings?
 
 You may have noticed other offerings tend to focus on a single social platform (eg YouTube) and provide rigid templates that limit your ability to actually work with and analyze the data.
+
 The DMT extension is on a mission to provide the most transparent and high value data about the larger ecosystem of creators across all social platforms they may be active on. While we only support YouTube for now, you can expect more announcements about this soon (hint: ⏰)
+
 Why does this app require all these permissions from Google?
 The DMT Creator Data extension only uses your permissions to understand who is making requests of the data to the DMT server and save your specific information for your retrieval and convenience.
+
+## Why is the DMT Creator Data Google Sheets extension asking for these permissions?
+
+When you install or start using the DMT Creator Data extension in your Google spreadsheet for the first time you will be prompted to allow these permissions. As DMT, we take user data safety very seriously and only ask for permissions that we need to:
+
+1. Understand who **you** are so that we can ensure a seamless experience across the entire DMT Creator Data extension
+1. Ensure that you have the appropriate permissions to access the relevant creator data
+1. The permissions that we ask for enable the Creator Data extension to work correctly and deliver the data you care about
+
+## So does DMT collect my user data and what does it do with it?
+
+The DMT Creator Data extensoin only collects your username and email associated with the Google account you used to install (for admins) and authorize the extension and associates any data requests you make back to the "installing organization and user" so we can properly support you as a user of the extension going forward.
 
 ## Where does this extension source the data from?
 
