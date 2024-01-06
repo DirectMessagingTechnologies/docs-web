@@ -49,5 +49,5 @@ Please note: when using the filter, you are only filtering on the dataset return
 :::
 
 # Missing something? Tell us!
-Is there something you don't like? Results are not what you are expecting? Vibes not aligned?
-Feel free to drop us a line and share your thoughts at this [link](https://airtable.com/appzETVKT8y3nFxsx/shreeZck44tUeKVqf).
+Is there something you don't like or are the results what you are expecting?
+Please let us know at this [link](https://airtable.com/appzETVKT8y3nFxsx/shreeZck44tUeKVqf).
