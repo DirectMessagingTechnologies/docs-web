@@ -8,6 +8,7 @@ hide_table_of_contents: false
 keywords:
     - Creator data
     - Custom functions overview
+toc_min_heading_level: 1
 ---
 
 # Overview
