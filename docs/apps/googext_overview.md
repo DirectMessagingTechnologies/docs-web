@@ -8,7 +8,6 @@ hide_table_of_contents: false
 keywords:
     - Creator data
     - Custom functions overview
-toc_min_heading_level: 1
 ---
 
 # Overview
@@ -17,7 +16,7 @@ The DMT Creator Data app is an extension for Google Sheets that puts all of your
 
 This quick overview includes the major components of the extension that is generally available.
 
-# Installing & Setup
+## Installing & Setup
 
 There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
 
