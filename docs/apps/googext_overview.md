@@ -16,6 +16,14 @@ The DMT Creator Data app is an extension for Google Sheets that puts all of your
 
 This quick overview includes the major components of the extension that is generally available.
 
+# Installing & Setup
+
+There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
+
+Simply click the **install** button in the Workspace Marketplace listing and proceed through the dialog and grant the DMT Creator Data extension the permissions it needs to work as expected. 
+
+And that's it! Once it is successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
+
 ## Components
 
 The current implementation includes two major components: the custom functions that you can invoke directly in the cells of your google spreadhsheets, and there is also a basic settings panel that is included for understanding who the managing user of the extension in the working document is.
