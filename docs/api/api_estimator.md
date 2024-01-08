@@ -16,7 +16,7 @@ keywords:
 :::warning
 The DMT API is current in pre-alpha. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
 
-If you wish to get early access, [sign up](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR) using this form (I promise we look at it!)
+If you wish to get early access, [**sign up**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR) using this form (I promise we look at it!)
 :::
 
 The `Estimator` app provided by DMT provides a viewership projection of _hypothetical video_ for a given (YouTube and twitch.tv for now) channel, either by `channelId` or `channelName` - either one is optional, but at least one must be required for a successful request.
