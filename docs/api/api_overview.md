@@ -13,7 +13,7 @@ keywords:
 # Overview
 
 :::warning 
-The DMT API is currently in **pre-alpha**. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
+The DMT API is currently in **early access**. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
 
 If you **wish to get early access**, sign up using this [form](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR) (I promise we look at it!)
 :::
