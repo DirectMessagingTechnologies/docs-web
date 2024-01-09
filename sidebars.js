@@ -66,7 +66,9 @@ const sidebars = {
                 "apps/gsheets-privacy-policy",
                 
               ]
-            }
+            },
+            "apps/finder",
+            // "apps/estimator"
           ]
       },      
       ],
