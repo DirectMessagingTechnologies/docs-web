@@ -18,4 +18,4 @@ For the fastest response to any issues you may have, please submit your support 
 
 <!-- <iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/appzETVKT8y3nFxsx/shr1bHROPcWon5ivv?backgroundColor=pink&prefill_FormType=Technical+support&prefill_CaseSource=Google+Extension" frameborder="0" onmousewheel="" width="100%" height="1219" style={{background: 'transparent', border: '1px solid #ccc'}}></iframe> -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG9qhguujK_DdnIYTjLM0Q5EIaT2881FbIa_AEqrOUr-60pA/viewform?usp=pp_url&entry.618118206=Technical+support&entry.1614651797=Google+Extension&embedded=true" width="640" height="1198" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG9qhguujK_DdnIYTjLM0Q5EIaT2881FbIa_AEqrOUr-60pA/viewform?embedded=true" width="640" height="1198" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
