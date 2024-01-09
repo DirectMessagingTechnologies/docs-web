@@ -14,7 +14,7 @@ keywords:
 
 Hi there! We are here to support and help you through any questions or issues you may be having with the DMT Creator Data Google Sheets extension!
 
-For the fastest response to any issues you may have, please submit your support inquiry in the form below, alternatively, you can send an email to andy+gsheets@directmessage.tech as well!
+For the fastest response to any issues you may have, please submit your support inquiry in the form below, you can also send an email to andy+support@directmessage.tech as well.
 
 <!-- <iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/appzETVKT8y3nFxsx/shr1bHROPcWon5ivv?backgroundColor=pink&prefill_FormType=Technical+support&prefill_CaseSource=Google+Extension" frameborder="0" onmousewheel="" width="100%" height="1219" style={{background: 'transparent', border: '1px solid #ccc'}}></iframe> -->
 
