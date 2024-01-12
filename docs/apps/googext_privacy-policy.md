@@ -15,7 +15,7 @@ _Last Updated_: 2024-01-11
 
 ## 1. Introduction
 
-Welcome to DMT Creator Data. This Privacy Policy is designed to inform you about the collection, use, and disclosure of personal information when you use our software/web application and the services provided through it. By using DMT Creator Data, you agree to the terms and conditions outlined in this Privacy Policy.
+Welcome to DMT Creator Data (alternatively referred to as "we", "our"). This Privacy Policy is designed to inform you about the collection, use, and disclosure of personal information when you use our software/web application and the services provided through it. By using DMT Creator Data, you agree to the terms and conditions outlined in this Privacy Policy.
 
 ## 2. Information We Collect
 
