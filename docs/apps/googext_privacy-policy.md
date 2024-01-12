@@ -45,7 +45,7 @@ The DMT Creator Data Google Sheets extension use and transfer to any other app o
 
 We implement security measures to protect your information, but no method of transmission over the internet is entirely secure. We strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security.
 
-## 6. CCPA and GDPR Compliance**
+## 6. CCPA and GDPR Compliance
 
 **6.1 CCPA Compliance**
 
