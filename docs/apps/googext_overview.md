@@ -3,7 +3,7 @@
 id: gsheets-overview
 title: Overview
 sidebar_position: 1
-description: Overview on the DMT Creator Data Google sheets extension
+description: Overview on the DMT Creator Data for Google Sheets™ extension
 hide_table_of_contents: false 
 keywords:
     - Creator data
@@ -12,7 +12,7 @@ keywords:
 
 # Overview
 
-The DMT Creator Data app is an extension for Google Sheets that puts all of your influencer and creator data gathering workflows back in google sheets so you can get back to focusing on planning and executing great campaigns!
+The DMT Creator Data app is an extension for Google Sheets™ that puts all of your influencer and creator data gathering workflows back in google sheets so you can get back to focusing on planning and executing great campaigns!
 
 This quick overview includes the major components of the extension that is generally available.
 
@@ -20,7 +20,7 @@ This quick overview includes the major components of the extension that is gener
 
 There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
 
-Simply click the **install** button in the Workspace Marketplace listing and proceed through the dialog and grant the DMT Creator Data extension the permissions it needs to work as expected. 
+Simply click the **install** button in the Google Workspace Marketplace™ listing and proceed through the installation flow and grant the DMT Creator Data extension the Google™ Account permissions it needs to work as expected. 
 
 And that's it! Once it is successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
 
@@ -49,4 +49,4 @@ To use the `keywords` parameter without providing a channel or video url, you ca
 
 ### Settings Panel
 
-The Settings panel is accessed through the `Settings` option in the `Extensions -> DMT Creator Data` dropdown. This is a basic but informative UI sidebar that shows you the managing user for the DMT Creator Data extension in the Google Sheets document you are operating in.
+The Settings panel is accessed through the `Settings` option in the `Extensions -> DMT Creator Data` dropdown. This is a basic but informative UI sidebar that shows you the managing user for the DMT Creator Data extension in the Google Sheets™ document you are operating in.

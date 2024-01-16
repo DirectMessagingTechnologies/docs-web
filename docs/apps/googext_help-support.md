@@ -3,7 +3,7 @@
 id: gsheets-help-support
 title: Help & Support
 sidebar_position: 2
-description: Contact us for help and support for DMT Creator Data for Google Sheets extension
+description: Contact us for help and support for DMT Creator Data for Google Sheets™ extension
 keywords:
     - contact us
     - support ticket
@@ -12,7 +12,7 @@ keywords:
 
 # Help & Support
 
-Hi there! We are here to support and help you through any questions or issues you may be having with the DMT Creator Data Google Sheets extension!
+Hi there! We are here to support and help you through any questions or issues you may be having with the DMT Creator Data for Google Sheets™ extension!
 
 For the fastest response to any issues you may have, please submit your support inquiry in the form below, you can also send an email to andy+support@directmessage.tech as well.
 

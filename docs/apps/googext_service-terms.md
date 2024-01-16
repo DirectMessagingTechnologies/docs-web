@@ -13,13 +13,13 @@ Last Updated: 2023-11-12
 
 **1. Acceptance of Terms**
 
-Welcome to DMT Creator Data ("we," "our," or "us"). By using our extension, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use our extension.
+Welcome to DMT Creator Data ("we," "our," or "us"). By using our extension for Google Sheets™, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use our extension.
 
 **2. Use of the Extension**
 
 **2.1 Eligibility**
 
-You must be at least 18 years old to use DMT Creator Data.
+You must be at least 13 years old to use DMT Creator Data.
 
 **2.2 Free Tier**
 

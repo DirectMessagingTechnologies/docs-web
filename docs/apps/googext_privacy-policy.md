@@ -2,7 +2,7 @@
 
 id: gsheets-privacy-policy
 title: Privacy Policy
-description: Privacy Policy for the DMT Creator Data Google Sheets add-on
+description: Privacy Policy for the DMT Creator Data for Google Sheets™ add-on
 keywords:
     - privacy policy
     - usage
@@ -15,7 +15,7 @@ _Last Updated_: 2024-01-11
 
 ## 1. Introduction
 
-Welcome to DMT Creator Data (alternatively referred to as "we", "our"). This Privacy Policy is designed to inform you about the collection, use, and disclosure of personal information when you use our software/web application and the services provided through it. By using DMT Creator Data, you agree to the terms and conditions outlined in this Privacy Policy.
+Welcome to DMT Creator Data (alternatively referred to as "we", "our"). This Privacy Policy is designed to inform you about the collection, use, and disclosure of personal information when you use our software/web application and the services provided through it. By using the DMT Creator Data for Google Sheets™ add-on, you agree to the terms and conditions outlined in this Privacy Policy.
 
 ## 2. Information We Collect
 
@@ -39,7 +39,7 @@ Analyzing usage patterns to enhance user experience.
 
 We do not sell, trade, or otherwise transfer your personal information to third parties.
 
-The DMT Creator Data Google Sheets extension use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the [Limited Use](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) requirements.
+The DMT Creator Data for Google Sheets™ extension use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the [Limited Use](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) requirements.
 
 ## 5. Data Security
 
