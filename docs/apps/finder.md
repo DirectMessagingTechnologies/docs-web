@@ -12,7 +12,7 @@ keywords:
 The Channel Finder application helps you quickly find more channels by simply putting in a YouTube video url.
 
 # Walkthrough
-The Channel Finder is designed to give you a simple interface that works hard behind the scenes to generate a list of channels semantically related
+The Channel Finder is designed to give you a simple interface that works hard behind the scenes to generate a list of channels that are semantically related to the video metadata or the keywords that you submit in your search query.
 
 ## Step 1: Input your API Key
 The first step for successfully running the Channel Finder application is to input your DMT API key in the relevant field highlighted in this screenshot below:
