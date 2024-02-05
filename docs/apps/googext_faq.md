@@ -30,7 +30,7 @@ When you install or start using the DMT Creator Data extension in your Google sp
 
 ## So does DMT collect my user data and what does it do with it?
 
-The DMT Creator Data extensoin only collects your username and email associated with the Google account you used to install (for admins) and authorize the extension and associates any data requests you make back to the "installing organization and user" so we can properly support you as a user of the extension going forward.
+The DMT Creator Data extension only collects your username and email associated with the Google account you used to install (for admins) and authorize the extension and associates any data requests you make back to the "installing organization and user" so we can properly support you as a user of the extension going forward.
 
 ## Where does this extension source the data from?
 
