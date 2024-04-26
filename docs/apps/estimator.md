@@ -27,7 +27,7 @@ For YouTube
 
 Channel Name - the channel name can be confusing for YouTube because, there is the "Display Name" (called the channel.title in the DMT response payload) that YouTube does not consider a valid way to look up the channel. 
 
-If a channel does not have an alias in the channel url (especially after clicking around the "About" or "Videos" tabs on the channel page, you will need to use the channel Id.
+If a channel does not have an alias in the channel url (especially after clicking around the "About" or "Videos" tabs on the channel page) you will need to use the channel Id.
 Channel ID - YouTube has a unique way of creating their own unique identifier for each channel. This ID will be a 32 character mix of letters and numbers, all prefixed with the letters UC (Unique Channel? We think?)
 If a YouTube channel does not have a username configured (newer YouTube channels are less likely to have this) you will need to use the provided Channel Id to lookup a projection. The good news is that getting the Channel Id is just as easy as referencing the url for the Channel Name:
 
