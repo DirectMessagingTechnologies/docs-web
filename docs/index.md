@@ -7,7 +7,7 @@ slug: /
 
 # Welcome
 
-DMT is the only alternative for quickly getting started with influencer marketing by giving you a self service application with APIs to key creator datasets--and no conversations with a Sales person required!
+DMT is _the_ solution for quickly getting started with influencer marketing by giving you a self service application with APIs to key creator datasets--and no conversations with a Sales person required!
 
 If you've spent any time in the 'influencer marketing' or 'creator economy' space you will notice that most influencer marketing platforms provide an API as an afterthought or so severely marked up in price as to be non-viable to any developer or savvier growth marketer just starting to explore influencer marketing as a viable marketing channel.
 
