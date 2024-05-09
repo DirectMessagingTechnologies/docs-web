@@ -70,7 +70,6 @@ Currently, the channel or video url **needs to match** the `channelType` value, 
 To use the `keywords` parameter without providing a channel or video url, you can simply pass in `Null()` into the `url` parameter.
 :::
 
-
 ### Settings Panel
 
 The Settings panel is accessed through the `Settings` option in the `Extensions -> DMT Creator Data` dropdown. This is a basic but informative UI sidebar that shows you the managing user for the DMT Creator Data extension in the Google Sheets™ document you are operating in.
