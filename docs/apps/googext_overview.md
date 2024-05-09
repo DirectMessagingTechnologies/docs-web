@@ -46,8 +46,8 @@ This is helpful for understanding how to project performance for a given channel
 
 - `refreshData` (optional) - The default value is `false` and does not need to be changed or input. Only change the value to `true` if you want to force a recalcuation on the channel. However, please see the warning below.
 
-:::warn
-We recommend to keep the `refreshData` value default as **false**, otherwise this will increase your usage consumption of the DMT platform and could lead to getting throttled or billed additionally.
+:::warning
+We recommend keeping the `refreshData` value default as **false**, otherwise this will increase your usage consumption of the DMT platform and could lead to getting throttled or billed additionally.
 :::
 
 #### DMTChannelFinder()
