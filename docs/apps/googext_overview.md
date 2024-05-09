@@ -56,11 +56,17 @@ The `DMTChannelFinder` function returns a list of channels that are "look alikes
 
 ##### Parameters
 
-- `url` - 
+- `url` - The url of the channel or the video that you intend to use to find lookalike channels
 
-- `keywords` - 
+:::warning
+Currently, the channel or video url **needs to match** the `channelType` value, in other words, YouTube videos can only be used to generate lookalike YouTube channels
+:::
 
-- `channelType` (optional) - 
+- `keywords` - (optional) use the keywords to surface channels that are semantically relevant to the keywords you input. Currently, keywords is only supported for the "youtube" `channelType`.
+
+ keywords that can be used instead of the url
+
+- `channelType` (optional) - The platform of the channel that you requesting analytics for. For example, for requesting this function for the `@mrbeast` YouTube channel, you would input `"youtube"`. The default value is "youtube". You can assume all channelType values are lowercase, for example, Tiktok is "tiktok", Instagram is "instagram", Twitch is "twitch".
 
 :::info 
 To use the `keywords` parameter without providing a channel or video url, you can simply pass in `Null()` into the `url` parameter.
