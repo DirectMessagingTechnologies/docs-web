@@ -40,14 +40,14 @@ This is helpful for understanding how to project performance for a given channel
 
 ##### Parameters
 
-- `channelName`
+- `channelName` - the username of the channel, prefixed with an `@` symbol, for example the channel name of Mr Beast's YouTube channel is `@mrbeast`. The function will return an error if the prefix `@` symbol is missing.
 
-- `channelType` (optional) - 
+- `channelType` (optional) - The platform of the channel that you requesting analytics for. For example, for requesting this function for the `@mrbeast` YouTube channel, you would input `"youtube"`. The default value is "youtube". You can assume all channelType values are lowercase, for example, Tiktok is "tiktok", Instagram is "instagram", Twitch is "twitch".
 
-- `refreshData` (optional) - 
+- `refreshData` (optional) - The default value is `false` and does not need to be changed or input. Only change the value to `true` if you want to force a recalcuation on the channel. However, please see the warning below.
 
 :::warn
-We recommend to keep the `refreshData` value default as **false**, otherwise this will unnecessarily increase your usage meter
+We recommend to keep the `refreshData` value default as **false**, otherwise this will increase your usage consumption of the DMT platform and could lead to getting throttled or billed additionally.
 :::
 
 #### DMTChannelFinder()
