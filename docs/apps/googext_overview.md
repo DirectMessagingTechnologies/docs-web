@@ -32,11 +32,23 @@ The current implementation includes two major components: the custom functions t
 
 The custom DMT functions are prefixed with `DMT` and can be directly invoked in your google sheets document of your choice as your workflow and analytics needs demand. We are always thinking about more functions to include and each function effectively packages the DMT API and makes it "readable" by Google Sheets for your convenience.
 
-#### DMTChannelEstimator()
+#### DMTChannelEstimate()
 
-The `DMTChannelEstimator` function takes in the the `channelName` as well as a few optional parameters and returns a projected viewcount of how _a video_ from that given channel will perform in its first 30 days.
+The `DMTChannelEstimate()` function takes in the the `channelName` as well as a few optional parameters and returns a projected viewcount of how _a video_ from that given channel will perform in its first 30 days.
 
 This is helpful for understanding how to project performance for a given channel you might be considering for collaboration in a media campaign or just for general understanding of how they might perform relative to their follower counts.
+
+##### Parameters
+
+- `channelName`
+
+- `channelType` (optional) - 
+
+- `refreshData` (optional) - 
+
+:::warn
+We recommend to keep the `refreshData` value default as **false**, otherwise this will unnecessarily increase your usage meter
+:::
 
 #### DMTChannelFinder()
 
