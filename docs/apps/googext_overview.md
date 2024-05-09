@@ -47,12 +47,20 @@ This is helpful for understanding how to project performance for a given channel
 - `refreshData` (optional) - The default value is `false` and does not need to be changed or input. Only change the value to `true` if you want to force a recalcuation on the channel. However, please see the warning below.
 
 :::warning
-We recommend keeping the `refreshData` value default as **false**, otherwise this will increase your usage consumption of the DMT platform and could lead to getting throttled or billed additionally.
+We recommend keeping the `refreshData` value default as **false**, otherwise this will increase your usage consumption of the DMT platform and could lead to getting throttled or billed additionally. The **Best Practice** here is to use the `true` value to force a recalculation and then change the value back to `false` to be safe.
 :::
 
 #### DMTChannelFinder()
 
-The `DMTChannelFinder` function returns a list of channels that are "look alikes" of either a youtube video or channel that you pass in _or_ keywords that surface channels related to those keywords
+The `DMTChannelFinder` function returns a list of channels that are "look alikes" of either a youtube video or channel that you pass in _or_ keywords that surface channels related to those keywords.
+
+##### Parameters
+
+- `url` - 
+
+- `keywords` - 
+
+- `channelType` (optional) - 
 
 :::info 
 To use the `keywords` parameter without providing a channel or video url, you can simply pass in `Null()` into the `url` parameter.
