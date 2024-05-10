@@ -24,7 +24,7 @@ Here is the [direct link (click me!)](https://workspace.google.com/marketplace/a
 
 There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
 
-Simply click the **install** button in the Google Workspace Marketplace™ listing and proceed through the installation flow and grant the DMT Creator Data extension the Google™ Account permissions it needs to work as expected. 
+Simply click the **install** button in the [Google Workspace Marketplace™ listing](https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650) and proceed through the installation flow and grant the DMT Creator Data extension the Google™ Account permissions it needs to work as expected. 
 
 And that's it! Once it is successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
 
