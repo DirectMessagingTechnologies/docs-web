@@ -16,6 +16,10 @@ The DMT Creator Data app is an extension for Google Sheets™ that puts all of y
 
 This quick overview includes the major components of the extension that is generally available.
 
+### Find and install us from the Google Workspace Marketplace!
+
+Here is the [direct link (click me!)](https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650) to our listing for the DMT Creator Data plugin in the Google Workspace Marketplace™
+
 ## Installing & Setup
 
 There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
