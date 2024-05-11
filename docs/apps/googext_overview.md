@@ -18,13 +18,18 @@ This quick overview includes the major components of the extension that is gener
 
 ### Find and install us from the Google Workspace Marketplace!
 
-Here is the [direct link (click me!)](https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650) to our listing for the DMT Creator Data plugin in the Google Workspace Marketplace™
+Our Creator Data extension for Google Sheets is listed on the official Google Workspace Marketplace™, you can view (and install!) by clicking this button:
+
+<a href="https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650" style={{ display:'flex', "justify-content": 'center', "align-items":'center',  width: '380px', height: '50px', "max-width": '420px', margin: '2rem 0rem .5rem', "background-color": '#1C93D9', border: '1px solid white', "border-radius":'7px', color: '#f9fafa', "font-weight":'bold' }} target="_blank" >Get Creator Data for Google Sheets™</a>
+
 
 ## Installing & Setup
 
 There is minimal installation and setup needed to start working with creator data directly in your spreadsheets!
 
 Simply click the **install** button in the [Google Workspace Marketplace™ listing](https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650) and proceed through the installation flow and grant the DMT Creator Data extension the Google™ Account permissions it needs to work as expected. 
+
+
 
 And that's it! Once it is successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
 
