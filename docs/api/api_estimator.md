@@ -3,7 +3,7 @@
 id: api-estimator
 title: Channel Estimator 
 sidebar_position: 1
-description: Channel estimator endpoint
+description: Channel estimator API endpoint
 keywords:
     - Creator data
     - API
@@ -31,6 +31,6 @@ While these projections have been used with real clients and in production use-c
 
 ```js title="cURL Channel Estimator" showLineNumbers
 --request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimator?channelName=@JohnCooganPlus&channelType=youtube'
+--url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimate?channelName=@JohnCooganPlus&channelType=youtube'
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
