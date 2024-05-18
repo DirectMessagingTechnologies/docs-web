@@ -23,10 +23,15 @@ Any new DMT API services that we provide will be documented in this section as a
 
 The DMT Endpoints tend to conform to this pattern:
 
-`baseUrl/:version/:service/:group/:app`
+`baseUrl/:apiVersionNumber/:service/:group/:app`
 
 The :string refers to a dynamic parameter that depends on the service and child group and app being requested. The Endpoints are organized this way with the goal of being intuitive of what kind of response and service they will provide in the response payload.
 
 :::info
 Get your own API key by joining our waitlist [**here**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR)
 :::
+
+
+## P.S. So why is it called DMT?
+
+Apart from its perspective-alerting qualities, DMT stands for "Direct Message Technologies"
