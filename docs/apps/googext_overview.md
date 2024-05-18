@@ -29,9 +29,21 @@ There is minimal installation and setup needed to start working with creator dat
 
 Simply click the **install** button in the [Google Workspace Marketplace™ listing](https://workspace.google.com/marketplace/app/dmt_creator_data/752840059650) and proceed through the installation flow and grant the DMT Creator Data extension the Google™ Account permissions it needs to work as expected. 
 
+Once successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
+
+### Getting started guides & cookbooks
+
+To help you get started faster, we have prepared a quick template. You can click the spreadsheet preview image below to make a copy of the template.
+
+Once you open your copy of this template, go ahead and install the plugin, and once installed, **make sure to click on the DMT settings** menu option
+
+:::info
+The sample spreadsheet also has a `Installation guide` tab that you can reference with the complete steps
+:::
 
 
-And that's it! Once it is successfully installed, the extension install will be associated with your Google Workspace account (either a personal gmail _or_ a professional custom domain) that you used to install the application into your workspace.
+<a href="https://docs.google.com/spreadsheets/d/1KkICfeLBZ2jA1cuHwyQzFETQOYg2FR7V3eVMHq0D_GI/edit#gid=1547620141/copy" target="_blank"><img src={require('@site/static/img/dmt_template_docs_embed-1.png').default} /></a>
+
 
 ## Components
 
