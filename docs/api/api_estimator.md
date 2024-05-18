@@ -22,9 +22,9 @@ If you wish to get early access, [**sign up**](https://airtable.com/appzETVKT8y3
 The `/estimate` endpoint provided by DMT provides a viewership projection of _hypothetical video_ for a given YouTube, tiktok, Instagram, or Twitch channel, either by `channelId` or `channelName` - either one is optional, but at least one must be required for a successful request.
 
 :::info
-This **Creator Estimator** service is an exclusive service provided by DMT and the underlying calculations are the result of a need for something similar for the last 10 years of 'influencer marketing.' 
+This **Creator Estimate** service is an exclusive service provided by DMT and the underlying calculations are the result of a need for something similar for the last 10 years of 'influencer marketing.' 
 
-While these projections have been used with real clients and in production use-cases, they are not to be thought of as a guarantee, but as a helpful way to anchor valuing a channel's performance and therefore their pricing.
+While these projections have been used with real clients and in production use-cases, we recommend thinking of them as a way to _benchmark_ a channel's performance and inform your pricing decisions, they are **not** a guarantee.
 :::
 
 ## Request example
@@ -34,3 +34,4 @@ While these projections have been used with real clients and in production use-c
 --url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimate?channelName=@JohnCooganPlus&channelType=youtube'
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
+
