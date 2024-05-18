@@ -68,7 +68,7 @@ The `DMTChannelFinder` function returns a list of channels that are "look alikes
 - `url` - The url of the channel or the video that you intend to use to find lookalike channels
 
 :::warning
-Currently, the channel or video url **needs to match** the `channelType` value, in other words, YouTube videos can only be used to generate lookalike YouTube channels
+Currently, the channel or video url **needs to match** the `channelType` value, in other words, YouTube videos can only be used to generate lookalike YouTube channels, and so on.
 :::
 
 - `keywords` - (optional) use the keywords that are comma-separated wrapped in double quotes to find channels that are semantically related to the keywords you input. Currently, keywords is only supported for the "youtube" `channelType`.
