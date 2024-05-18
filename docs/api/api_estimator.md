@@ -35,6 +35,13 @@ While these projections have been used with real clients and in production use-c
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
+### Endpoint parameters
+
+You will notice there are two parameters in the request to the endpoint:
+
+- `channelName` - this is the @username of the channel you are requesting data for, in this case "@JohnCooganPlus" in the exmaple
+- `channelType` - the social media platform that the channel you are requesting data for publishes on. In this case "youtube"
+
 ## Response example
 
 ### 200 Status
