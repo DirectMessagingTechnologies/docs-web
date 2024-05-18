@@ -35,3 +35,23 @@ While these projections have been used with real clients and in production use-c
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
+## Response example
+
+### 200 Status
+
+```js
+{
+	"data": {
+		"channel": {
+			"id": "UC3_BakzLfadvFrsnClMFWmQ",
+			"type": "youtube",
+			"projection": {
+				"views": 191271,
+				"type": "expanded"
+			}
+		}
+	}
+}
+```
+
+This is a sample _successful_ request response payload. Note the `data` object in which all _other_ objects will be nested in as standard formatting with any DMT API endpoint.
