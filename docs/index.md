@@ -15,6 +15,15 @@ With DMT, our mission is to make creator marketing a viable and productive activ
 
 You can signup to our waitlist [**here**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR)
 
+## What should I use the DMT API for?
+
+Our goal is to give you a "workbench" for creator data and we have found several creative uses so far which include:
+
+- Marketers use the `/estimate` endpoint to understand what to pay influencers for sponsored videos and posts
+- Application developers use the APIs to embed creator data into their own (both advertising supported and paid) applications
+- Researchers (_including marketers_) use the `/find` endpoint to automatically find lookalike and similar channels
+
+
 ## How to use this resource
 
 Any new DMT API services that we provide will be documented in this section as an item in a given section and as a sub-page for a more detailed explanation of what and how that endpoint will return data to you.
