@@ -26,7 +26,7 @@ Here is a sample curl statement you can run in your terminal with your own API k
 
 ```js title="Sample cURL request" showLineNumbers
 --request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimator?channelName=@JohnCooganPlus&channelType=youtube'
+--url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimate?channelName=@JohnCooganPlus&channelType=youtube'
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
