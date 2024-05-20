@@ -20,7 +20,7 @@ If you **wish to get early access**, sign up using this [form](https://airtable.
 
 ## Authentication
 
-There is currently one way to authenticate with DMT API v0: by providing an authentication token. You can obtain a token by signing up in our early access form.
+There is currently one way to authenticate with DMT API v0: by providing an authentication `bearer` token. You can obtain a token by signing up in our early access form.
 This token can then be provided in the Authorization header of your HTTP request.
 Here is a sample curl statement you can run in your terminal with your own API key:
 
