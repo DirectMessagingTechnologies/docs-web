@@ -61,4 +61,9 @@ You will notice there are two parameters in the request to the endpoint:
 }
 ```
 
+:::info
+The `type` property nested in the projection response indicates if a broader (or "expanded") slice of the channel's dataset was used to generate this view performance projection.
+:::
+
+
 This is a sample _successful_ request response payload. Note the `data` object in which all _other_ objects will be nested in as standard formatting with any DMT API endpoint.
