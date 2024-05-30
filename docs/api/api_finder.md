@@ -51,3 +51,55 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
+## Response example
+
+### 200 status
+
+```js title="Channel Finder response" showLineNumbers
+{
+	"data": {
+		"channels": [
+            			{
+				"id": "UCLMuXbUwSMiQrkouXTc0lNA",
+				"name": "ethanolodj",
+				"username": "@ethanolodj",
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCLMuXbUwSMiQrkouXTc0lNA",
+				"followers": 198000,
+				"totalViews": 55664590,
+				"totalPosts": 227,
+				"description": "my views/sub ratio so bad HELP ME SUBSCRIBE\n\n\nI upload whenever I want.\n",
+				"createdDate": "2019-10-15T15:30:19.450342Z",
+				"categoryName": "Gaming",
+				"sampleVideo": "https://www.youtube.com/watch?v=Vq0b-6Zir88",
+				"country": "FR",
+				"profileImg": "https://yt3.ggpht.com/ytc/AIdro_nVICEDEtYaOIRjeVCtNx-CgR9oHk4FFDoZUKue=s88-c-k-c0x00ffffff-no-rj"
+			},
+			{
+				"id": "UCTVleVqZ2YKv0hFyFOddY1w",
+				"name": "Ache",
+				"username": "@ache00",
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCTVleVqZ2YKv0hFyFOddY1w",
+				"followers": 5440,
+				"totalViews": 1849552,
+				"totalPosts": 221,
+				"description": "fr'",
+				"createdDate": "2023-02-07T23:59:10.608777Z",
+				"categoryName": "Gaming",
+				"sampleVideo": "https://www.youtube.com/watch?v=vTsk953_8qs",
+				"country": null,
+				"profileImg": "https://yt3.ggpht.com/A9bfxK_IhSbW7YpZo2Ny2HIHPlWmiKSOBIKvQUUjzfh6MFhFtpInnToU3Xm6_XUjDh4obQYAdA=s88-c-k-c0x00ffffff-no-rj"
+			},			
+		],
+		"find": {
+			"url": null,
+			"keywords": "jackfrags|fps|battlefield%202",
+			"source": {
+				"videoId": null,
+				"channelId": null
+			}
+		}
+	}
+}
+```
