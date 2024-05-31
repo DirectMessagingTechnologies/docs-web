@@ -16,7 +16,10 @@ keywords:
 The DMT API is current in pre-alpha. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
 :::
 
-If you wish to get early access, sign up using this [form](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR) (I promise we look at it!)
+
+### Get early access!
+
+If you wish to get early access, sign up using this [**form here**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR)
 The Channel Finder API generates a list of related channels simply from the required channelType and url query params in an http GET request.
 
 ## Request examples
