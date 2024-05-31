@@ -59,7 +59,7 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 {
 	"data": {
 		"channels": [
-            			{
+                {
 				"id": "UCLMuXbUwSMiQrkouXTc0lNA",
 				"name": "ethanolodj",
 				"username": "@ethanolodj",
@@ -103,3 +103,6 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 	}
 }
 ```
+:::info
+The `find` nested object within the "data" payload contains information about the keywords and other related parameters that informed the search results
+:::
