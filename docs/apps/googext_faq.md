@@ -46,7 +46,7 @@ The DMT extension is largely powered by the DMT API which will be increasingly o
 
 ## Do you have an API I can read from as well?
 
-Yes! And you can sign up for early access here
+Yes! And you can sign up to join our waitlist for early access at [**this link here**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR)
 The DMT extension is largely powered by our own APIs that anybody can get direct access to for their own custom needs.
 
 ## How and where can I report an issue or share feedback?
