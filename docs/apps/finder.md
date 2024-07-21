@@ -20,7 +20,7 @@ The first step for successfully running the Channel Finder application is to inp
 Once you have inputted your key, the "Find Channels" button will be enabled and you can start successfully finding channels!
 
 **Need an API key?**
-If you need an API key, let us know! Get on the waitlist [here]().
+If you need an API key, let us know! Get on the waitlist [here](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR).
 
 
 ## Step 2: Input the intended video url
