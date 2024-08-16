@@ -31,7 +31,7 @@ The `url` parameter is _exclusive_ to the YouTube channelType param and will acc
 
 ```js title="cURL Channel Finder: URL"
 --request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/find&url={{URL}}&channelType=youtube'
+--url 'https://stg.directmessage.tech/api/v0/analytics/creators/find?url={{URL}}&channelType=youtube'
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
@@ -51,7 +51,7 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 
 ```js title="cURL Channel Finder: channelName"
 --request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/find&channelName={{channelName}}&channelType=tiktok'
+--url 'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelName={{channelName}}&channelType=tiktok'
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
