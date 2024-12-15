@@ -43,4 +43,4 @@ Get your own API key by joining our waitlist [**here**](https://airtable.com/app
 
 ## P.S. So why is it called DMT?
 
-Apart from its perspective-alerting qualities, DMT stands for "Direct Message Technologies" which we think nicely summarizes our mission of helping you get your message directly in front of your intended audience.
+Apart from its perspective-altering qualities, DMT stands for "Direct Message Technologies" which we think nicely summarizes our mission of helping you get your message directly in front of your intended audience.
