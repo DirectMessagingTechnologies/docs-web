@@ -77,7 +77,9 @@ The `422 Unprocessable Content` error status code is expected to return if you a
 ```js title="Channel Estimate 422 Error response" showLineNumbers
 {
 	"error": {
-		"message": "Invalid user input. Please reference docs for how to submit requests to the API: https://docs.directmessage.tech/api/api-estimator#422-error-status",
+		"message": "Invalid user input.\n
+		Please reference docs for how to submit requests to the API:\n
+		https://docs.directmessage.tech/api/api-estimator#422-error-status",
 		"statusCode": 422
 		}
 }
