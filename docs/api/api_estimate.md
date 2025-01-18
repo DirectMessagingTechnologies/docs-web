@@ -2,7 +2,7 @@
 
 id: api-estimator
 title: Channel Estimator 
-sidebar_position: 3
+sidebar_position: 1
 description: Channel estimator API endpoint
 keywords:
     - Creator data
@@ -10,12 +10,6 @@ keywords:
     - Custom DMT integrations
     - projection creator performance
 ---
-
-:::danger
-## Deprecation Alert
-This endpoint is approaching End of Life scheduled for 2025-12-21, after which this endpoint will be completely unsupported and unavailable to incoming requests.
-:::
-
 
 # Creator Estimator 
 
