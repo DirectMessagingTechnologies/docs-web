@@ -110,3 +110,18 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 :::info
 The `find` nested object within the "data" payload contains information about the keywords and other related parameters that informed the search results
 :::
+
+### 422 Error Status
+
+The `422 Unprocessable Content` error status code is expected to return if you attempted to submit an **invalid** body *or* query param request to the Estimator API endpoint.
+
+```js title="Channel Finder 422 Error response" showLineNumbers
+{
+	"error": {
+		"message": "Invalid user input.\n
+		Please reference docs for how to submit requests to the API:\n
+		https://docs.directmessage.tech/api/api-finder#422-error-status",
+		"statusCode": 422
+		}
+}
+```
