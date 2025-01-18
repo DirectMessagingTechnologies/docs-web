@@ -42,7 +42,13 @@ You will notice there are two parameters in the request to the endpoint:
 - `channelName` - this is the @username of the channel you are requesting data for, in this case "@JohnCooganPlus" in the exmaple
 - `channelType` - the social media platform that the channel you are requesting data for publishes on. In this case "youtube"
 
-<!-- CALLOUT: `channelName` EITHER OR logic block -->
+There is also a *third* parameter
+- `channelId` - the channel ID of the channel in question, this would be a large integer number for tiktok and twitch channels, and a 24 character text ID like *UChQl2YkLt3dj-KDyGUBzcHw* for YouTube channels
+
+:::warning
+Use **either** the `channelId` OR the `channelName` query parameter, but **one** of those parameters is required for a successful response.
+:::
+
 
 ## Response example
 
