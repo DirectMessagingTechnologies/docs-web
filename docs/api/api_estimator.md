@@ -42,6 +42,8 @@ You will notice there are two parameters in the request to the endpoint:
 - `channelName` - this is the @username of the channel you are requesting data for, in this case "@JohnCooganPlus" in the exmaple
 - `channelType` - the social media platform that the channel you are requesting data for publishes on. In this case "youtube"
 
+<!-- CALLOUT: `channelName` EITHER OR logic block -->
+
 ## Response example
 
 ### 200 Status
@@ -67,3 +69,14 @@ The `type` property nested in the projection response indicates if a broader (or
 
 
 This is a sample _successful_ request response payload. Note the `data` object in which all _other_ objects will be nested in as standard formatting with any DMT API endpoint.
+
+### 422 Error Status
+
+```js title="Channel Estimate 422 Error response" showLineNumbers
+{
+	"error": {
+		"message":"Invalid user input. Please reference docs for how to submit requests to the API: https://creatormeta.gitbook.io/dmt-services/v/dmt-apis/rest-api-v0/creator-analytics/creator-estimator",
+		"statusCode":422
+		}
+}
+```
