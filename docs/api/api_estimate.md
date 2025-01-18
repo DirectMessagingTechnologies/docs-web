@@ -3,12 +3,12 @@
 id: api-estimator
 title: Channel Estimate 
 sidebar_position: 1
-description: Channel estimator API endpoint
+description: Channel estimate API endpoint
 keywords:
     - Creator data
     - API
     - Custom DMT integrations
-    - projection creator performance
+    - creator performance
 ---
 
 # Creator Estimator 
