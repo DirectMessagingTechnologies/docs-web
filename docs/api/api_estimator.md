@@ -72,11 +72,13 @@ This is a sample _successful_ request response payload. Note the `data` object i
 
 ### 422 Error Status
 
+The `422 Unprocessable Content` error status code is expected to return if you attempted to submit an **invalid** body *or* query param request to the Estimator API endpoint.
+
 ```js title="Channel Estimate 422 Error response" showLineNumbers
 {
 	"error": {
-		"message":"Invalid user input. Please reference docs for how to submit requests to the API: https://creatormeta.gitbook.io/dmt-services/v/dmt-apis/rest-api-v0/creator-analytics/creator-estimator",
-		"statusCode":422
+		"message": "Invalid user input. Please reference docs for how to submit requests to the API: https://docs.directmessage.tech/api/api-estimator#422-error-status",
+		"statusCode": 422
 		}
 }
 ```
