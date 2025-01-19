@@ -62,16 +62,16 @@ Use **either** the `channelId` OR the `channelName` query parameter, but **one**
 
 ### 200 Status
 
-```js title="Channel Estimate response" showLineNumbers
+```js title="Channel Estimator response" showLineNumbers
 {
 	"data": {
 		"channel": {
-			"id": "UC3_BakzLfadvFrsnClMFWmQ",
-			"type": "youtube",
-			"projection": {
-				"views": 191271,
-				"type": "expanded"
-			}
+			"id": "UC53aFFx91VWnxLplgZBuXOQ",
+			"type": "youtube"
+		},
+		"projection": {
+			"views": 7099,
+			"type": "default"
 		}
 	}
 }
