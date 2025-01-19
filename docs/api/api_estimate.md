@@ -70,7 +70,7 @@ Use **either** the `channelId` OR the `channelName` query parameter, but **one**
 ```
 
 :::info
-The `type` property nested in the projection response indicates if a broader (or "expanded") slice of the channel's dataset was used to generate this view performance projection.
+The `type` property nested in the `projection` response indicates if a broader (or "expanded") slice of the channel's dataset was used to generate this view performance projection.
 :::
 
 
