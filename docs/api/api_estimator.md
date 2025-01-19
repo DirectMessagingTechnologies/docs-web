@@ -14,6 +14,13 @@ keywords:
 
 # Channel Estimator 
 
+:::danger Deprecation Alert!
+For the future-forward version of this endpoint, please see the [**Channel Estimate**](./api-estimate) page.
+
+This endpoint is approaching End of Life scheduled for 2025-12-21, after which this endpoint will be completely unsupported and unavailable to incoming requests.
+:::
+
+
 :::warning
 The DMT API is current in pre-alpha. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
 
@@ -23,15 +30,9 @@ If you wish to get early access, [**sign up**](https://airtable.com/appzETVKT8y3
 The `/estimator` endpoint provided by DMT provides a viewership projection of _hypothetical video_ for a given YouTube, tiktok, Instagram, or Twitch channel, either by `channelId` or `channelName` - either one is optional, but at least one must be required for a successful request.
 
 :::tip
-This **Creator Estimate** service is an exclusive service provided by DMT and the underlying calculations are the result of a need for something similar for the last 10 years of 'influencer marketing.' 
+This **Channel Estimate** service is an exclusive service provided by DMT and the underlying calculations are the result of a need for something similar for the last 10 years of 'influencer marketing.' 
 
 While these projections have been used with real clients and in production use-cases, we recommend thinking of them as a way to _benchmark_ a channel's performance and inform your pricing decisions, they are **not** a guarantee.
-:::
-
-:::danger Deprecation Alert!
-For the future-forward version of this endpoint, please see the [Channel Estimate](./api-estimate) page.
-
-This endpoint is approaching End of Life scheduled for 2025-12-21, after which this endpoint will be completely unsupported and unavailable to incoming requests.
 :::
 
 ## Request example
