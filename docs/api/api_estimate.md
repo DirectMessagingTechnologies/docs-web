@@ -19,7 +19,7 @@ The DMT API is current in pre-alpha. This means you should not rely on its avail
 If you wish to get early access, [**sign up**](https://airtable.com/appzETVKT8y3nFxsx/shrEEvRQTq3tXfmgR) using this form (I promise we look at it!)
 :::
 
-The `/estimate` endpoint provided by DMT provides a viewership projection of _hypothetical video_ for a given YouTube, tiktok, Instagram, or Twitch channel, either by `channelId` or `channelName` - either one is optional, but at least one must be required for a successful request.
+The `/estimate` endpoint provided by DMT provides a viewership projection of _hypothetical video_ for a given YouTube, tiktok, Instagram, or Twitch channel, either by `channelId` or `channelName` - either one is optional, but **at least one** must be used in your request for a successful response.
 
 :::info
 This **Channel Estimate** service is an exclusive service provided by DMT and the underlying calculations are the result of a need for something similar for the last 10 years of 'influencer marketing.' 
