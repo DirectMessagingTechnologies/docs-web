@@ -11,9 +11,8 @@ keywords:
     - projection creator performance
 ---
 
-:::danger
-## Deprecation Alert
-For the future-forward version of this endpoint, please see the [Channel Estimate]()
+:::danger [Deprecation Alert!]
+For the future-forward version of this endpoint, please see the [Channel Estimate](./api-estimate) page.
 
 This endpoint is approaching End of Life scheduled for 2025-12-21, after which this endpoint will be completely unsupported and unavailable to incoming requests.
 :::
