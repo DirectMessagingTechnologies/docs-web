@@ -55,6 +55,11 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 --header 'Authorization: Bearer {{YOUR_API_KEY}}
 ```
 
+:::warn
+#### Input Validation 
+
+:::
+
 ## Response example
 
 ### 200 status
