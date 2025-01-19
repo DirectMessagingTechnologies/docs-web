@@ -1,7 +1,7 @@
 ---
 
 id: api-estimator
-title: Channel Estimator 
+title: Channel Estimator (deprecated)
 sidebar_position: 3
 description: Channel estimator API endpoint
 keywords:
@@ -13,6 +13,8 @@ keywords:
 
 :::danger
 ## Deprecation Alert
+For the future-forward version of this endpoint, please see the [Channel Estimate]()
+
 This endpoint is approaching End of Life scheduled for 2025-12-21, after which this endpoint will be completely unsupported and unavailable to incoming requests.
 :::
 
