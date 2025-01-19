@@ -1,6 +1,6 @@
 ---
 
-id: api-estimator
+id: api-estimate
 title: Channel Estimate 
 sidebar_position: 1
 description: Channel estimate API endpoint
