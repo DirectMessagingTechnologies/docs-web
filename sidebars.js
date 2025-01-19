@@ -40,8 +40,9 @@ const sidebars = {
               collapsible: true,
               collapsed: false,
               items:[
-                "api/api-estimator",
+                "api/api-estimate",
                 "api/api-finder",
+                "api/api-estimator"
                 // "api/api-audience"
               ]
             }
