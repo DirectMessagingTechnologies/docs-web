@@ -11,7 +11,7 @@ keywords:
     - creator performance
 ---
 
-# Channel Estimator 
+# Channel Estimate 
 
 :::warning
 The DMT API is current in pre-alpha. This means you should not rely on its availability, and that it may change without warning, although we will certainly make a best effort to contact you in advance.
