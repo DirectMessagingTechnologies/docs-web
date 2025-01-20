@@ -30,9 +30,9 @@ While these projections have been used with real clients and in production use-c
 ## Request example
 
 ```js title="cURL Channel Estimate" showLineNumbers
---request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/estimate?channelName=@JohnCooganPlus&channelType=youtube'
---header 'Authorization: Bearer {{YOUR_API_KEY}}
+curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
+-X GET \
+'https://stg.directmessage.tech/api/v0/analytics/creators/estimate?channelName=@JohnCooganPlus&channelType=youtube'
 ```
 
 ### Endpoint parameters
