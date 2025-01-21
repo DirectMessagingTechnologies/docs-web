@@ -50,9 +50,9 @@ The `keywords` parameter is currently _exclusive_ to the YouTube channelType par
 Use the `channelName` param to identify similar Instagram and Tiktok channels
 
 ```js title="cURL Channel Finder: channelName"
---request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelName={{channelName}}&channelType=tiktok'
---header 'Authorization: Bearer {{YOUR_API_KEY}}
+curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
+-X GET \
+'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelName={{channelName}}&channelType=tiktok'
 ```
 
 :::warn
