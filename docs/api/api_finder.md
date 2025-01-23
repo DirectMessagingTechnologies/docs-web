@@ -55,9 +55,11 @@ curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
 'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelName={{channelName}}&channelType=tiktok'
 ```
 
-:::warn
-#### Input Validation 
-
+:::warn Input validation
+The `channelType` query param is required. Any **one** (and only one) of these params is **also** required:
+- url - expects the url of a (currently only YouTube) channel for identifying "look alikes" of that channel
+- channelName - expects the @channelName of a channel for identifying "look alikes" of that channel
+- keywords - expects comma separated keywords for returning channels related to the keywords
 :::
 
 ## Response example
