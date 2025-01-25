@@ -62,6 +62,11 @@ The `channelType` query param is required. Any **one** (and only one) of these p
 - keywords - expects comma separated keywords for returning channels related to the keywords
 :::
 
+### Paginating with this iteration
+
+<!-- Flesh out here -->
+
+
 ## Response example
 
 ### 200 status
