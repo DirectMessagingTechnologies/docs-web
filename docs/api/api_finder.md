@@ -64,7 +64,9 @@ The `channelType` query param is required. Any **one** (and only one) of these p
 
 ### Paginating with this iteration
 
-<!-- Flesh out here -->
+The current iteration of the `/find` API endpoint does not support conventional pagination methods using a cursor or offset.
+
+Instead, we recommend that you "chain" the `/find` results together by passing in either the `@channelname` value from the relevant array object item, or constructing a url using the `channelid` value.
 
 
 ## Response example
