@@ -68,6 +68,16 @@ The current iteration of the `/find` API endpoint does not support conventional 
 
 Instead, we recommend that you "chain" the `/find` results together by passing in either the `@channelname` value from the relevant array object item, or constructing a url using the `channelid` value.
 
+#### Using the @channelname param
+
+For example, using the `@channelname` found in each object item nested in the `data.channels[]` array, you can construct your subsequent request like this:
+
+```js title="cURL /Find pagination with @channelname
+curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
+-X GET \
+'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelType=youtube&channelName=@channelname'
+```
+
 
 ## Response example
 
