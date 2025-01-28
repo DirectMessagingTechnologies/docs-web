@@ -52,7 +52,7 @@ Use the `channelName` param to identify similar Instagram and Tiktok channels
 ```js title="cURL Channel Finder: channelName"
 curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
 -X GET \
-'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelName={{channelName}}&channelType=tiktok'
+'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelType=tiktok&channelName={{channelName}}'
 ```
 
 :::warn Input validation
