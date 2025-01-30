@@ -57,9 +57,9 @@ curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
 
 :::warning Input validation
 The `channelType` query param is required. Any **one** (and only one) of these params is **also** required:
-- url - expects the url of a (currently only YouTube) channel for identifying "look alikes" of that channel
-- channelName - expects the @channelName of a channel for identifying "look alikes" of that channel
-- keywords - expects comma separated keywords for returning channels related to the keywords
+- `url` - expects the url of a (currently only YouTube) channel for identifying "look alikes" of that channel
+- `channelName` - expects the @channelName of a channel for identifying "look alikes" of that channel
+- `keywords` - expects comma separated keywords for returning channels related to the keywords
 :::
 
 ### Paginating with this iteration
