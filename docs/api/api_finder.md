@@ -30,9 +30,9 @@ If you wish to get early access, sign up using this [**form here**](https://airt
 The `url` parameter is _exclusive_ to the YouTube channelType param and will accept either a youtube video _or_ channel url
 
 ```js title="cURL Channel Finder: URL"
---request GET
---url 'https://stg.directmessage.tech/api/v0/analytics/creators/find?url={{URL}}&channelType=youtube'
---header 'Authorization: Bearer {{YOUR_API_KEY}}
+curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
+-X GET \
+'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelType=youtube&url=youtube.com/watch?v=https://www.youtube.com/watch?v=Dkr4AbksCOI'
 ```
 
 ### Requesting with the Keywords param
