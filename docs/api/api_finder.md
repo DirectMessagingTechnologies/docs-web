@@ -32,7 +32,7 @@ The `url` parameter is _exclusive_ to the YouTube channelType param and will acc
 ```js title="cURL Channel Finder: URL"
 curl -H 'Authorization: Bearer {{YOUR_API_KEY}}' \
 -X GET \
-'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelType=youtube&url=youtube.com/watch?v=https://www.youtube.com/watch?v=Dkr4AbksCOI'
+'https://stg.directmessage.tech/api/v0/analytics/creators/find?channelType=youtube&url=youtube.com/watch?v=Dkr4AbksCOI'
 ```
 
 ### Requesting with the Keywords param
